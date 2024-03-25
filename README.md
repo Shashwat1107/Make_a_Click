@@ -9,8 +9,6 @@ Make_a_Click is a Python project that enables users to control their computer's 
 - **Click Action:** Recognizes a specific gesture, such as bringing the thumb and index finger together, to simulate a click action.
 - **Customizable:** The project can be easily customized and extended to suit specific user preferences or requirements.
 
-###Disadvantage
-- 
 ## Requirements
 
 - Python <3.11 (64-bits)
