@@ -11,7 +11,7 @@ Make_a_Click is a Python project that enables users to control their computer's 
 
 ## Requirements
 
-- Python <3.11 (64-bits)
+- Python 3.10.XX (64-bits)
 - opencv-python (4.9.0.80)
 - pyautogui (0.9.54) 
 - mediapipe (0.10.11)
