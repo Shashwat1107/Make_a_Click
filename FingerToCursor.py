@@ -56,7 +56,7 @@ while True:
             landmarks = hand.landmark
             for id1,lm in enumerate(landmarks):
                 try:
-                    if id1 == 8:
+                    if id1 == 4:
                         x = int(lm.x * frame_width)
                         y = int(lm.y * frame_height)
                         # print(id1,x,y)
@@ -75,7 +75,7 @@ while True:
                             print(e)
                             control.PAUSE
                         
-                    if id1 == 4:
+                    if id1 == 8:
                         x2 = int(lm.x * frame_width)
                         y2 = int(lm.y * frame_height)
                         # print(id1,x,y)
